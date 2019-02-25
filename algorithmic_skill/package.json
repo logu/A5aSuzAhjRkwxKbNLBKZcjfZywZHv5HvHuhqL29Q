@@ -1,0 +1,15 @@
+{
+  "name": "algorithmic_skill",
+  "version": "1.0.0",
+  "description": "Test candidat javascript algorithmic skill evaluation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Logu",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.1"
+  }
+}
