@@ -46,3 +46,21 @@ npm install
 npm test
 ```
 
+Test results :
+
+```bash
+npm run test
+
+> algorithmic_skill@1.0.0 test /Users/Logu/www/test/algorithmic_skill
+> mocha --reporter spec
+
+
+
+  Resolve objects
+    ✓ should convert dot-notation into referencess
+
+
+  1 passing (22ms)
+
+
+```
